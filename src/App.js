@@ -1,3 +1,4 @@
+<<<<<<< HEAD:src/App.js
 import './App.css';
 
 function App() {
@@ -14,6 +15,20 @@ function App() {
         <body><a href="tel:678-997-4880">678-997-4880</a> | <a href="quyenong1@gmail.com">quyenong1@gmail.com</a> | <a href="https://github.com/quyen-ong">GitHub</a> | <a href="https://www.linkedin.com/in/quyen-ong">LinkedIn</a></body>
       </header> 
       <body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="styles.css" rel="stylesheet">
+    <title>Quyen Ong</title>
+  </head>
+  <body>
+    <div>
+      <h1>Quyen Ong</h1>
+      <body><a href="tel:678-997-4880">678-997-4880</a> | <a href="quyenong1@gmail.com">quyenong1@gmail.com</a> | <a href="https://github.com/quyen-ong">GitHub</a> | <a href="https://www.linkedin.com/in/quyen-ong">LinkedIn</a></body>
+    </div>
+    <hr>
+>>>>>>> main:index.html
     <div>
         <h2>Skills</h2>
         <ul>
