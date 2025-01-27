@@ -5,7 +5,7 @@ function App() {
     <div className="App">
 
       {/*<h1>Quyen Ong</h1>
-        <body><a href="tel:678-997-4880">678-997-4880</a> | <a href="quyenong1@gmail.com">quyenong1@gmail.com</a> | <a href="https://github.com/quyen-ong">GitHub</a> | <a href="https://www.linkedin.com/in/quyen-ong">LinkedIn</a></body>
+        <body><a href="quyenong1@gmail.com">quyenong1@gmail.com</a> | <a href="https://github.com/quyen-ong">GitHub</a> | <a href="https://www.linkedin.com/in/quyen-ong">LinkedIn</a></body>
       */}
 
       <header className="App-header"> 
@@ -61,7 +61,7 @@ function App() {
     </div>
     <div>
         <h2>Education</h2>
-        <h3>Mercer University (Macon, GA): December 2024</h3>
+        <h3>Mercer University (Macon, GA):	December 2024</h3>
         <b>Major: Computer Engineering</b>
         <b>GPA: 3.76</b>
         <b>Completed Courses:</b>
