@@ -38,7 +38,7 @@ function App() {
           </ul>
         </div>
         <div>
-          <h3>Research Assistant: 9/4/23 - Present</h3>
+          <h3>Research Assistant: 9/4/23 - 12/6/24</h3>
           <b><i>Mercer University</i></b>
           <ul>
             <li>Design and implement a GPS solution for a weather balloon using Arduino components</li>
@@ -61,7 +61,7 @@ function App() {
     </div>
     <div>
         <h2>Education</h2>
-        <h3>Mercer University (Macon, GA):	Expected Graduation: December 2024</h3>
+        <h3>Mercer University (Macon, GA): December 2024</h3>
         <b>Major: Computer Engineering</b>
         <b>GPA: 3.76</b>
         <b>Completed Courses:</b>
@@ -81,7 +81,7 @@ function App() {
     <div>
         <h2>Projects</h2>
         <div>
-          <h3>Temporary Immersion Bioreactor (TIB):	1/8/24 - Present</h3>
+          <h3>Temporary Immersion Bioreactor (TIB):	1/8/24 - 12/6/24</h3>
           <ul>
             <li>Engineered a robust web application to facilitate remote monitoring of Arduino-controlled TIB, combining HTML, CSS, and JavaScript</li>
             <li>Implemented a system to control the pump of the TIB remotely</li>
