@@ -3,15 +3,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-
-      {/*<h1>Quyen Ong</h1>
-        <body><a href="quyenong1@gmail.com">quyenong1@gmail.com</a> | <a href="https://github.com/quyen-ong">GitHub</a> | <a href="https://www.linkedin.com/in/quyen-ong">LinkedIn</a></body>
-      */}
-
       <header className="App-header"> 
       
         <h1>Quyen Ong</h1>
-        <body><a href="tel:678-997-4880">678-997-4880</a> | <a href="quyenong1@gmail.com">quyenong1@gmail.com</a> | <a href="https://github.com/quyen-ong">GitHub</a> | <a href="https://www.linkedin.com/in/quyen-ong">LinkedIn</a></body>
+        <body><a href="quyenong1@gmail.com">quyenong1@gmail.com</a> | <a href="https://github.com/quyen-ong">GitHub</a> | <a href="https://www.linkedin.com/in/quyen-ong">LinkedIn</a></body>
       </header> 
       <body>
     <div>
