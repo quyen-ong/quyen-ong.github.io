@@ -57,18 +57,15 @@ function App() {
     <div>
         <h2>Education</h2>
         <h3>Mercer University (Macon, GA):	December 2024</h3>
-        <b>Major: Computer Engineering</b>
-        <b>GPA: 3.76</b>
-        <b>Completed Courses:</b>
+        <p><b>Major: Computer Engineering</b></p>
+        <p><b>GPA: 3.76</b></p>
+        <p><b>Completed Courses:</b></p>
         <ul>
           <li>Application Development & Deployment (using Dart in Flutter)</li>
           <li>Operating Systems (using C++ in a Linux environment)</li>
           <li>Data Structures and Algorithms (using C++ in a Linux environment)</li>
           <li>Digital Design with VHDL (using Quartus)</li>
           <li>Embedded Systems</li>
-        </ul>
-        <b>Current Courses:</b>
-        <ul>
           <li>Computer Architecture</li>
           <li>Engineering Economics</li>
         </ul>
