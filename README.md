@@ -1,4 +1,6 @@
-This is a portfolio website made with React.
+This is my portfolio website to display my resume and practice my website building skills.
+
+
 
 # Getting Started with Create React App
 
@@ -7,6 +9,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run deploy`
+
+Deploys the website. *Make sure to use after each update*
 
 ### `npm start`
 
