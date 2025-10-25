@@ -15,12 +15,23 @@ function App() {
           <li><b>Web Development:</b> HTML, CSS, Javascript</li>
           <li><b>App Development:</b> Flutter, Android Studio, Dart</li>
           <li><b>Coding Languages:</b> Java, C++, Python, C, Bash, VHDL</li>
-          <li><b>Software Programs:</b> Azure DevOps, Synergis Adept, Excel, Docker, Eclipse, VsCode, Visio, PowerPoint</li>
+          <li><b>Software Programs:</b> High QA, Azure DevOps, Synergis Adept, Excel, Docker, Eclipse, VsCode, Visio, PowerPoint</li>
           <li><b>Lab:</b> Soldering,  DE2-115 FPGA board, Keil uVision5, Arduino</li>
         </ul>
     </div>
     <div>
         <h2>Work Experience</h2>
+        <div>
+          <h3>Quality Control Technician:	9/15/25 - Present</h3>
+          <b><i>Fox Factory</i></b>
+          <ul>
+            <li> reated Excel sheets based on engineered inspection plans to record detailed measurements and inspection data for quality control and traceability</li>
+            <li>Performed dimensional inspections on ~15 parts a day, utilizing  tools (calipers, micrometers, profilometers, etc.) to ensure products comply with engineered blueprints and inspection plans</li>
+            <li>Verified the accuracy of equipment and process by conducting random sample checks and performing first article inspections</li>
+            <li>Created bubble drawings based on engineered blueprints using High QA</li>
+            <li>Calibrated and maintained measurement instruments to ensure reliable and precise  readings</li>
+          </ul>
+        </div>
         <div>
           <h3>Electrical Engineer Intern: 5/13/24 - 8/8/24</h3>
           <b><i>Tyonek Native Corporation</i></b>
@@ -56,8 +67,13 @@ function App() {
     </div>
     <div>
         <h2>Education</h2>
+        <div>
+          <h3>Georgia Institute of Technology (Atlanta, GA):  Expected Start: January 2026</h3>
+          <p><b>Master of Science in Computer Science</b></p>
+        </div>
+        <div>
         <h3>Mercer University (Macon, GA):	December 2024</h3>
-        <p><b>Major: Computer Engineering</b></p>
+        <p><b>Bachelor of Science in Computer Engineering</b></p>
         <p><b>GPA: 3.76</b></p>
         <p><b>Completed Courses:</b></p>
         <ul>
@@ -69,6 +85,7 @@ function App() {
           <li>Computer Architecture</li>
           <li>Engineering Economics</li>
         </ul>
+        </div>
     </div>
     <div>
         <h2>Projects</h2>
