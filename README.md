@@ -1,1 +1,1 @@
-This is my portfolio website to display my resume and practice my website building skills.
+This is my portfolio website to expand on my resume and practice my website building skills.
